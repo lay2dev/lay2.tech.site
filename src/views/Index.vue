@@ -265,7 +265,7 @@
           <div class="flex mt-24">
             <div class="md:w-3/12 lg:w-3/12 sm:w-6/12 p-2 m-2 bg-white shadow-md rounded-lg text-center">
               <a href="https://www.nervos.org/" target="_blank">
-                <img class="max-w-80 mx-auto my-auto mt-1" src="../../src/assets/logo/nervos-logo.png" />
+                <img class="max-w-80 mx-auto my-auto mt-1" src="../../src/assets/logo/nervos-new-logo.png" />
               </a>
             </div>
             <div class="md:w-3/12 lg:w-3/12 sm:w-6/12 p-2 m-2 bg-white shadow-md rounded-lg text-center">
